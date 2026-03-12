@@ -1,7 +1,7 @@
 # ball_screw_linear_stage
 Precision ball screw linear stage designed in Fusion 360 demonstrating rotational-to-linear motion mechanism.
 This project demonstrates a ball screw driven linear motion mechanism designed in Fusion 360.
-![Ball Screw Linear Stage](preview.png)
+![Ball Screw Linear Stage](preview2.png)
 ## Features
 - Ball screw converting rotational motion to linear motion
 - Linear guide rods for constrained motion
